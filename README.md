@@ -10,19 +10,30 @@ As you start to instrument more apps and hosts with New Relic One, you’ll like
 - Export dashboards as files.
 - Rotate your license keys.
 
-## Installation
+## What do you need to make this work?
 
-> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
+**Python 3** 
+
+The code is written in Python 3. Before you start, you will need Python on your computer. More information on installing Python can be found easily with the Beginners [Guide](https://wiki.python.org/moin/BeginnersGuide/Download).
+
+**Requests**
+
+Requests is a HTTP library for the Python programming language. Please visit the official [site](https://docs.python-requests.org/en/latest) to download the latest package. 
+
+To install Requests, simply run this simple command in your terminal of choice:
+
+> $ python -m pip install requests
+
+**JSON**
+
+Python has a built-in package called json, which can be used to work with JSON data.
+
+**New Relic One Account**
+Free access to all of New Relic. No credit card required. [Sign Up for Free](https://newrelic.com/signup) 
 
 ## Getting Started
->[Simple steps to start working with the software similar to a "Hello World"]
 
-## Usage
->[**Optional** - Include more thorough instructions on how to use the software. This section might not be needed if the Getting Started section is enough. Remove this section if it's not needed.]
-
-## Building
-
->[**Optional** - Include this section if users will need to follow specific instructions to build the software from source. Be sure to include any third party build dependencies that need to be installed separately. Remove this section if it's not needed.]
+Follow the guide, and instructions as described [here](www.google.com) on how to create your first user api key, and run these Python codes. 
 
 ## Support
 
