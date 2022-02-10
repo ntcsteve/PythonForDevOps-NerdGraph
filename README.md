@@ -14,7 +14,7 @@ As you start to instrument more apps and hosts with New Relic One, you’ll like
 
 **Python 3** 
 
-The code is written in Python 3. Before you start, you will need Python on your computer. More information on installing Python can be found easily with the Beginners [guide](https://wiki.python.org/moin/BeginnersGuide/Download).
+The code is written in Python 3. Before you start, you will need Python on your computer. More information on installing Python can be found easily with the beginners [guide](https://wiki.python.org/moin/BeginnersGuide/Download).
 
 **Requests**
 
