@@ -14,7 +14,7 @@ As you start to instrument more apps and hosts with New Relic One, you’ll like
 
 **Python 3** 
 
-The code is written in Python 3. Before you start, you will need Python on your computer. More information on installing Python can be found easily with the Beginners [Guide](https://wiki.python.org/moin/BeginnersGuide/Download).
+The code is written in Python 3. Before you start, you will need Python on your computer. More information on installing Python can be found easily with the Beginners [guide](https://wiki.python.org/moin/BeginnersGuide/Download).
 
 **Requests**
 
@@ -29,11 +29,12 @@ To install Requests, simply run this simple command in your terminal of choice:
 Python has a built-in package called json, which can be used to work with JSON data.
 
 **New Relic One Account**
-Free access to all of New Relic. No credit card required. [Sign Up for Free](https://newrelic.com/signup) 
+
+Free access to all of New Relic. No credit card required. [Sign Up for Free](https://newrelic.com/signup). 
 
 ## Getting Started
 
-Follow the guide, and instructions as described [here](www.google.com) on how to create your first user api key, and run these Python codes. 
+Follow the instructions as described [here](www.google.com) on how to create your first user api key, and run these Python codes. 
 
 ## Support
 
